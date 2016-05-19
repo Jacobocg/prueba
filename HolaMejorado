@@ -10,7 +10,7 @@ cat >primerArtefacto.html <<EOF
 <html>
   <body>
     <h3>El primer artefacto creado</h3>
-    <p>La tuberia que ha creado el artefacto ha sido: $GO_PIPELINE_NAME<p>
-  <body>
+    <p>La tuberia que ha creado el artefacto ha sido: $GO_PIPELINE_NAME</p>
+  </body>
 </html>
 EOF
