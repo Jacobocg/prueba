@@ -1,5 +1,7 @@
 #!/bin/bash
-
-echo "adios"
-
-
+cont=1
+while [ $cont -le 10 ]
+do
+	echo "Construyendo parte $cont"
+	let cont++
+done
